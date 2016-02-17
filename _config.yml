@@ -1,14 +1,29 @@
+name: Colorado 2016
+favicon: null
 layout_spectrum: 0.05725446
 typography_spectrum: 0.5313157
+title: Colorado Trip 2016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.04837115
-  lightness: 0.8475565
-  brandStrength: 0.1022758
-  rhythmicContrast: 0.2772201
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Colorado 2016
+  brandStrength: 0.1022758
+  lightness: 0.8475565
+  saturation: 0.04837115
+  rhythmicContrast: 0.2772201
+purpose: []
