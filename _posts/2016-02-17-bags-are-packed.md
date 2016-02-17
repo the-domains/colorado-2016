@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-17T02:05:21.133Z'
+datePublished: '2016-02-17T18:44:28.504Z'
 publisher:
   domain: ''
   name: ''
 title: Bags are packed...
-dateModified: '2016-02-17T02:02:37.269Z'
+dateModified: '2016-02-17T18:43:21.526Z'
 sourcePath: _posts/2016-02-17-bags-are-packed.md
 published: true
 inFeed: true
@@ -18,4 +18,4 @@ _type: Article
 
 ---
 # Bags are packed...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b064eaf9-909a-417a-8b75-827a6105e6f0.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87016196-491c-4d4c-88b4-b1e93e25b757.png)
