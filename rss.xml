@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Colorado Trip 2016]]></title>
         <description><![CDATA[Colorado Trip 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/colorado-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 18:46:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 21:24:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/colorado-2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We've got a plane. ]]></title>
+            <description><![CDATA[<article><h1>We've got a plane. </h1><p>We've got a plane.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47750dcf632aaa43ab0fd7454f441ff45a7a77b8.png"></article>]]></description>
+            <link>https://thegrid.ai/colorado-2016/weve-got-a-plane/index.html</link>
+            <guid isPermaLink="false">f8cf2691-ddf4-4728-bb7b-d98351f7a5f0</guid>
+            <pubDate>Wed, 17 Feb 2016 21:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bags are packed...]]></title>
-            <description><![CDATA[<article><h1>Bags are packed...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87016196-491c-4d4c-88b4-b1e93e25b757.png"></article>]]></description>
-            <link>undefinedbags-are-packed/index.html</link>
+            <description><![CDATA[<article><h1>Bags are packed...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9ae66183a0fcb019bd557778627c681bf21b6b1.png"></article>]]></description>
+            <link>https://thegrid.ai/colorado-2016/bags-are-packed/index.html</link>
             <guid isPermaLink="false">22dd1807-961f-43d0-9cb0-bd1a69ac96cf</guid>
             <pubDate>Wed, 17 Feb 2016 18:44:28 GMT</pubDate>
         </item>
