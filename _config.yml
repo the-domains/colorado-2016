@@ -1,5 +1,8 @@
+name: Colorado 2016
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5313157
 title: Colorado Trip 2016
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6379929
-  brandStrength: 0.1022758
-  lightness: 0.2114695
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0
+  lightness: 0.2114695
+  saturation: 0.6379929
   rhythmicContrast: 0.4426523
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Colorado 2016
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5313157
-layout_spectrum: 1
+purpose: []
